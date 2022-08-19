@@ -1,0 +1,23 @@
+ 
+ #div1{
+    color: crimson;
+    border: 20px solid rgb(159, 87, 36); margin: 20px; border-radius: 20px;
+    padding: 20px 20px; text-align: justify; float: inline;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("Bangladesh_regions_map.svg" );
+}
+           
+    #contry{color: darkolivegreen; text-align: center;}    
+    #Bangladesh{text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+

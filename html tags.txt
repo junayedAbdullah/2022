@@ -1,0 +1,9 @@
+<p>
+<b>
+<h1>-<h6>
+<img>
+<a>
+<div>
+<style>-(color,background,border,margin,border radius,class,id,padding,float,text-align,
+<ol>-(li)
+<ul>-(li)
